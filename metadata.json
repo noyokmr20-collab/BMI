@@ -1,0 +1,5 @@
+{
+  "name": "BMI計算機",
+  "description": "身長と体重からBMI（体格指数）を素早く計算し、健康状態をチェックできるシンプルなツールです。",
+  "requestFramePermissions": []
+}
